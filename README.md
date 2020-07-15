@@ -2,7 +2,8 @@
 
 - 💬 Ask me about improving your team or personal dev skills - get started with [WeeklyDevTips](https://weeklydevtips.com) and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
 - 📫 How to reach me: [Blog Contact Form](https://ardalis.com/contact)
-- ⚡ Fun fact: I'm a beekeeper and former combat engineer and explosive expert
+- 🐦 Twitter: [ardalis](https://twitter.com/ardalis)
+- ⚡ Fun fact: I'm a beekeeper and former combat engineer and explosives expert (p is for plenty)
 
 <!--
 **ardalis/ardalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
