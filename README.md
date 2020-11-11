@@ -15,9 +15,9 @@
 <div/>
 <br />
   
-<div>
-  <img align="center" src="https://profile-counter.glitch.me/ardalis/count.svg" alt="ardalis" />
-<div/>
+
+![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardalis&repo=ardalis&countColor=%237B1E7A)
+
 <!--
 **ardalis/ardalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
