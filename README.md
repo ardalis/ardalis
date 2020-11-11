@@ -14,9 +14,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ardalis&layout=compact&hide=html&theme=dark" alt="ardalis" />
 <div/>
 <br />
-  
 
 ![Visitors since 11 Nov 2020](http://estruyf-github.azurewebsites.net/api/VisitorHit?user=ardalis&repo=ardalis&countColor=%237B1E7A)
+
+Want to level up your career in software development?
+
+[![devBetter icon](https://user-images.githubusercontent.com/782127/98844683-b2a77280-241a-11eb-9285-d3c82730e011.png)](https://devbetter.com)
+
+Join my [devBetter group coaching program](https://devbetter.com).
 
 <!--
 **ardalis/ardalis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
