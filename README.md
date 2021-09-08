@@ -8,6 +8,8 @@
 - 📺 [Follow ardalis on Twitch](https://twitch.tv/ardalis). I stream weekly, usually Friday afternoons (EST).
 - ⬆️ [Level up as a developer](https://devbetter.com). Join my group coaching program, [devBetter.com](https://devbetter.com).
 
+Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
+
 <div>
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ardalis&show_icons=true&theme=dark" alt="ardalis" />
 <div/>
