@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about improving your team or personal dev skills - get started with [WeeklyDevTips](https://weeklydevtips.com) and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
+- 💬 Ask me about improving your team or personal dev skills - get started with [devBetter](https://devBetter.com) and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
 - 📫 How to reach me: [Blog Contact Form](https://ardalis.com/contact)
 - 🐦 [![Twitter](https://img.shields.io/twitter/follow/ardalis?label=Follow%20%40ardalis&style=social)](https://twitter.com/ardalis)
 - ⚡ Fun fact: I'm a beekeeper 🐝 and former combat engineer and explosives 💥 expert (p is for plenty).
