@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 💬 Ask me about improving your team or personal dev skills - get started with [devBetter](https://devBetter.com) and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
+- 💬 Ask me about improving your team or personal dev skills - get started with [devBetter](https://devBetter.com), [Dometrain](https://dometrain.com/author/steve-ardalis-smith/?ref=steve-ardalis-smith&coupon_code=ARDALIS), and [Pluralsight](https://www.pluralsight.com/authors/steve-smith)
 - 📫 How to reach me: [Blog Contact Form](https://ardalis.com/contact)
 - 🎥 YouTube.com/ardalis ![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCkvBKVrZ_RepwX7UgfnFIUA)
 - 🦋 [BlueSky/ardalis.com](https://bsky.app/profile/ardalis.com)
