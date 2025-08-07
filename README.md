@@ -6,7 +6,7 @@
 - 🦋 [BlueSky/ardalis.com](https://bsky.app/profile/ardalis.com)
 - ⚡ Fun fact: I'm a beekeeper 🐝 and former combat engineer and explosives 💥 expert (p is for plenty).
 - 🥇 [Microsoft MVP](https://mvp.microsoft.com/en-us/PublicProfile/7716?fullName=Steven%20A.%20Smith) since 2002.
-- 📺 [Follow ardalis on Twitch](https://twitch.tv/ardalis). I stream weekly, usually Friday afternoons (EST).
+- 📺 [Follow ardalis on Twitch](https://twitch.tv/ardalis). I used to stream. I may stream again.
 - ⬆️ [Level up as a developer](https://devbetter.com). Join my group coaching program, [devBetter.com](https://devbetter.com).
 
 Want to help? [Here are my "Good First Issue" issues](https://github.com/search?q=is%3Aopen+author%3Aardalis+label%3A%22good+first+issue%22).
